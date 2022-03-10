@@ -11,6 +11,7 @@ window.mainAddress = {
   actionExecuteVote: '0xd95a33ecB11C78b1FF4D36073291b08B900Fe14A',
   actionVaultWithdrawToken: '0x5D1283537AdCE31eb96F58ab0187fB053e55Ee49',
   actionVaultExeWithdrawToken: '0x3A4cDe6D856cE7421b563FE50f54e6731196E18a',
+  actionGrantMethodRegister: '0x919ea6f0884726796933B4a372186E843e0b9315',
 
   // for org
   actionOrg: "0x23bE5b7e4AfF9e6c281df499A3472ecDc48d829e",
