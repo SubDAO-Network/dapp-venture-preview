@@ -12,6 +12,9 @@ window.mainAddress = {
   actionVaultWithdrawToken: '0x5D1283537AdCE31eb96F58ab0187fB053e55Ee49',
   actionVaultExeWithdrawToken: '0x3A4cDe6D856cE7421b563FE50f54e6731196E18a',
   actionGrantMethodRegister: '0x919ea6f0884726796933B4a372186E843e0b9315',
+  actionGrantMethodApply: '0x3D8518293cdF8143dD464A5Fb538e48faF68993E',
+  actionVoteImpeachRegister: '0xa1380Ea1a3B67cfB4282C6c49E59e350e3851346',
+  actionVoteImpeachApply: '0xF879a9cCD111DCc5946b07F011c76D03dcF0F636',
 
   // for org
   actionOrg: "0x23bE5b7e4AfF9e6c281df499A3472ecDc48d829e",
