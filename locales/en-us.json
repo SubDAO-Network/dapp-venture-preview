@@ -1,26 +1,153 @@
 {
-  "hometitle":" Access DAO Anytime, Anywhere",
-  "homeDescription":"DAOWallet will soon be launched on Chrome Web Store. It will gradually support most types of cryptocurrencies through the Polkadot cross-chain infrastructure.",
-  "ConnectWallet": "Connect Wallet",
+  "home": {
+    "homeTitle":" Create Your Own",
+    "homeSubTitle":" Start Your Web 3.0 Journey",
+    "homeDescription":"SubDAO is a multi-chain DAO protocol, which allows any decentralized organization to swiftly create and manage DAOs. We are committed to serving as a Web3.0 entry.",
+    "ConnectWallet": "Connect Wallet",
+    "BrowseOtherDAO": "Browse other DAOs",
+    "noDao": "You are not a member of any DAO",
+    "canCreateDao": "You can join other DAOs or create your own DAO!",
+    "CreateDAO": "Create DAO"
+  },
+  "header": {
+    "transfer": "transfer",
+    "connect": "Please connect wallet",
+    "Signin": "Sign in",
+    "Home": "Home",
+    "mine": "My DAO",
+    "Logout": "Logout"
+  },
+  "mydao": {
+    "more":"More DAOs",
+    "Member": "Member(s)",
+    "myDAO": "My DAOs",
+    "Create": "Create DAO",
+    "Explorer": " Explorer other DAOs ...",
+    "noDaos": "Sorry,there is no DAOs"
+  },
+  "create": {
+    "Basicinformation": "Basic information",
+    "TemplateSelection": "Template selection",
+    "TemplateConfiguration": "Template configuration",
+    "DAOImage": "Logo",
+    "DAOName": "Name",
+    "DAODescription": "DAO Description",
+    "ImageScale": "Image scale 1:1",
+    "FillImage": "URL ",
+    "FillName": "Please enter DAO's name",
+    "FillDAODescription": "Please describe your DAO to let people know it better.Less than 1024 charactars.",
+    "twitterTips": "Please enter your twitter account",
+    "twitter": "Twitter",
+    "Next": "Next",
+    "FillTips": "Logo、Name、Description is Required",
+    "think": "Previous",
+    "use": "Use",
+    "submit": "Submit",
+    "enter": "Please enter",
+    "warningTips": "When you complete the creation , you will enter the subscription period and start foud raising . The successful fundraising will automatically enter the settlement period. When the closed will end by GP voting. After that, LP can collect the principal and profits.",
+    "InstanceByTemplate": "Creating DAO from Template",
+    "init": "init dao failed ",
+    "voteTips": "Add Vote Manager",
+    "manager": "Add Managers",
+    "venture": {
+      "info": "Venture info",
+      "GP": "GP Carry",
+      "GPTips": "Please enter percentage",
+      "Manage": "Manage fee",
+      "GPinfo": "GP info",
+      "address": "Address",
+      "Bonus": "Bonus",
+      "AddMore": "Add More",
+      "Found": "Found info",
+      "TokenType": "Token type",
+      "SelectOption": "Please Select Option",
+      "softcap": "Fund soft cap",
+      "hardcap": "Fund hard cap",
+      "TokenName": "Token name",
+      "FillTokenName": "Please enter token name",
+      "TokenSymbol": "Token symbol",
+      "FillTokenSymbol": "Please enter token symbol"
+    },
+    "vote": {
+      "VoteConfiguration": "Vote Configuration",
+      "mini": "Required min number",
+      "support": "Required min support number"
+    },
+    "token": {
+      "config": "Token Configuration",
+      "name": "Name",
+      "FillToken": "Fill Token name",
+      "FillSymbol": "Fill the symbol",
+      "FillSupply": "Fill the total supply",
+      "Symbol": "Symbol",
+      "Total": "Total Supply"
+    }
+  },
+  "about": {
+    "Balance": "Balance",
+    "Owner": "Owner",
+    "Moderators": "Moderators",
+    "Contracts": "Contracts",
+    "others": "Other DAOs",
+    "explorer": "Explorer other DAOs",
+    "Ownership": "Transfer Ownership",
+    "Quit": "Quit",
+    "Join": "Join",
+    "Member": "Member(s)",
+    "More": "More",
+    "MyBalance": "My balance",
+    "Home": "Home",
+    "Vote": "Vote",
+    "Vault": "Vault",
+    "ORG": "ORG",
+    "Venture": "Venture",
+    "panel": "Venture panel",
+    "Quitting": "Quitting",
+    "resign": "Resign Moderator",
+    "resignMember": "Resign Moderator"
+  },
+  "transfer":{
+    "Transferring": "Transferring ownership",
+    "ownership": "Transfer Ownership",
+    "Address": "Address",
+    "Submit": "Submit"
+  },
+  "exitOrg": {
+    "exitOrg": "Confirm to exit?",
+    "Close": "Close",
+    "Confirm": "Confirm"
+  },
+  "addOrg": {
+    "AddMember": "Add DAO Member(s)",
+    "AddModerator": "Add DAO Moderator",
+    "Name": "Name",
+    "Address": "Address",
+    "Submit": "Submit",
+    "Batch": "Batch Import"
+  },
+  "apply": {
+    "ApplyMember": "Apply DAO Member",
+    "Name": "Name",
+    "Submit": "Submit"
+  },
+
+
   "YourAccount": "Your Account",
   "SelectAccount": "Select Account",
   "SelectOption": "Please Select Option",
   "noWallet": "Please install Polkadot wallet first",
-  "CreateDAO": "Create DAO",
-  "connect": "Please connect wallet",
-  "noDao": "You are not a member of any DAO",
-  "canCreateDao": "You can join other DAOs or create your own DAO!",
+
   "right": "SubDAO Labs © 2021",
   "Website": "subdao",
   "Exit": "Exit",
   "logout": "Logout",
   "ExitMy": "Exit my DAO",
   "ExitCreate": "Exit create",
-  "MyDAO": "My DAO",
+
   "InitializeHome": "Initialize home page",
   "InitializeDAO": "Initializing DAO Contracts",
   "GetContractAddress": "Get Contract Address",
-  "apply": "Apply",
+
   "InitializingContracts": "Initializing Contracts",
   "Getbalance": "Get balance Of tokens",
   "Getinformation": "Get information",
@@ -43,9 +170,9 @@
   "setFreeAddMember": "Set the way to add members",
   "RemoveModerator": "Remove a DAO moderator",
   "RemoveMember": "Remove a DAO member",
-  "AddModerator": "Add a DAO Moderator",
-  "AddMember": "Add DAO Member(s)",
-  "ApplyMember": "Apply a DAO Member",
+
+
+
   "ApplicationSent": "Application request sent",
   "ApproveSent": "Approvement sent",
   "Amount": "Amount",
@@ -93,20 +220,14 @@
   "CreateNewVote": "Create a new vote",
   "Decide": "Decide",
   "sureTrigger": "Are you sure trigger?",
-  "exitOrg": "Confirm to exit?",
+
   "Close": "Close",
   "Confirm": "Confirm",
-  "Basicinformation": "Basic information",
-  "TemplateSelection": "Template selection",
-  "TemplateConfiguration": "Template configuration",
+
   "think": "Previous",
-  "DAOImage": "DAO Logo",
-  "DAOName": "DAO Name",
-  "DAODescription": "DAO Description",
-  "ImageScale": "Image scale 1:1",
-  "FillImage": "DAO's image URL ",
-  "FillName": "Please enter DAO's name",
-  "FillDAODescription": "Please describe your DAO to let people know it better.Less than 1024 charactars.",
+
+
+
   "InitializeTemplate": "Initializing template list",
   "initializationFailed": "Main contract initialization failed",
   "chooseTemplate": "Please choose one template",
@@ -120,7 +241,7 @@
   "FillSupply": "Fill the total supply",
   "FillTokenAmount": "Fill the Token Amount",
   "AddToken": "Add Transfer Token",
-  "InstanceByTemplate": "Creating DAO from Template",
+
   "ListDao": "List DAO Instances By Owner",
   "InitDAO": "Initialize DAO",
   "Uploadinformation": "Upload DAO's information",
