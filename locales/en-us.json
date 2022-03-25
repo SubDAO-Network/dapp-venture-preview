@@ -316,6 +316,10 @@
     "RaiseFail": "Raise Fail Period",
     "FreezingPeriod": "Freezing Period",
     "Settlement": "Settlement Period",
-    "manager": "Add Managers"
+    "manager": "Add Managers",
+    "TokenProportion": "Your funds will be 1:1 mint to token",
+    "DepositModal": "Deposit Modal",
+    "WhiteListTip": "Sorry, it's not on the white list",
+    "Balance": "Balance"
   }
 }
