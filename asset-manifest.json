@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.1fa58955.chunk.css",
-    "main.js": "./static/js/main.fb91bbb9.chunk.js",
-    "main.js.map": "./static/js/main.fb91bbb9.chunk.js.map",
+    "main.js": "./static/js/main.f95f2174.chunk.js",
+    "main.js.map": "./static/js/main.f95f2174.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.dc865887.js",
     "runtime-main.js.map": "./static/js/runtime-main.dc865887.js.map",
-    "static/css/2.fe90e3fa.chunk.css": "./static/css/2.fe90e3fa.chunk.css",
+    "static/css/2.4315d1ac.chunk.css": "./static/css/2.4315d1ac.chunk.css",
     "static/js/2.964a4502.chunk.js": "./static/js/2.964a4502.chunk.js",
     "static/js/2.964a4502.chunk.js.map": "./static/js/2.964a4502.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/2.fe90e3fa.chunk.css.map": "./static/css/2.fe90e3fa.chunk.css.map",
+    "static/css/2.4315d1ac.chunk.css.map": "./static/css/2.4315d1ac.chunk.css.map",
     "static/css/main.1fa58955.chunk.css.map": "./static/css/main.1fa58955.chunk.css.map",
     "static/images/noDaos.png": "./static/images/25b36b.png",
     "static/images/SubDAO_logo.png": "./static/images/9359d7.png",
@@ -22,9 +22,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.dc865887.js",
-    "static/css/2.fe90e3fa.chunk.css",
+    "static/css/2.4315d1ac.chunk.css",
     "static/js/2.964a4502.chunk.js",
     "static/css/main.1fa58955.chunk.css",
-    "static/js/main.fb91bbb9.chunk.js"
+    "static/js/main.f95f2174.chunk.js"
   ]
 }
