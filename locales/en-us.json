@@ -320,6 +320,7 @@
     "TokenProportion": "Your funds will be 1:1 mint to token",
     "DepositModal": "Deposit Modal",
     "WhiteListTip": "Sorry, it's not on the white list",
-    "Balance": "Balance"
+    "Balance": "Balance",
+    "countdown": "countdown"
   }
 }
