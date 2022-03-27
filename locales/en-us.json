@@ -233,7 +233,9 @@
     "AddOption": "Add Option",
     "FilltheName": "Fill the name",
     "fillAddress": "New owner's address",
-    "Submit": "Submit"
+    "Submit": "Submit",
+    "AddAuthLoading": "Adding Auth",
+    "RemoveAuthLoading": "Removing Auth"
   },
   "footer": {
     "right": "SubDAO Labs © 2021",
