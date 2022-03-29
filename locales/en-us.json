@@ -139,6 +139,7 @@
     "mini": "Required Vote Min Number",
     "support": "Required Support Min Number",
     "Transfer": "Transfer",
+    "ManageFeeTransfer": "Transfer ManageFee",
     "Recipient": "Recipient Address",
     "Approve": "Approve GP",
     "Kick": "Remove GP",
@@ -178,7 +179,15 @@
     "KickGP": "Remove GP",
     "VoteSettlement": "Vote to Settlement Period",
     "CreateNewVote": "Creating a new vote",
-    "ExecutingVote": "Executing"
+    "ExecutingVote": "Executing",
+    "AddGP": "Add GP",
+    "TransferManageFee": "Transfer Manage Fee",
+    "GpInfo": "GP info",
+    "GPInfoAddress": "Address",
+    "bonus": "bonus",
+    "voteInfo": "Vote info",
+    "minimumPassed": "Minimum passed votes",
+    "minimumVotes": "Minimum votes number"
   },
   "vault": {
     "Amount": "Amount",
