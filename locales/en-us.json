@@ -189,8 +189,8 @@
     "GPInfoAddress": "Address",
     "bonus": "bonus",
     "voteInfo": "Vote info",
-    "minimumPassed": "Minimum passed votes",
-    "minimumVotes": "Minimum votes number"
+    "minimumPassed": "Required Vote Min Number",
+    "minimumVotes": "Required Support Min Number"
   },
   "vault": {
     "Amount": "Amount",
