@@ -83,6 +83,7 @@
   },
   "about": {
     "Balance": "Balance",
+    "TotalAssests": "Total Assets Value",
     "Owner": "Owner",
     "Contracts": "Contracts",
     "others": "Other DAOs",
