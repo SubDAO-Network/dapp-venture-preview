@@ -1,6 +1,6 @@
 {
   "home": {
-    "homeTitle": "Create Your Own",
+    "homeTitle": "Create Your Own DAO",
     "homeSubTitle": "Start Your Web 3.0 Journey",
     "homeDescription": "SubDAO is a multi-chain DAO protocol, which allows any decentralized organizations to swiftly create and manage DAOs. We are committed to serving as a Web3.0 entry.",
     "ConnectWallet": "Connect Wallet",
@@ -29,15 +29,12 @@
     "Basicinformation": "Basic information",
     "TemplateSelection": "Template selection",
     "TemplateConfiguration": "Template configuration",
-    "VentureTemplate": "Ventures DAO",
     "DAOImage": "Logo",
     "DAOName": "Name",
     "DAODescription": "DAO Description",
     "ImageScale": "Image scale 1:1",
     "FillImage": "URL ",
     "FillName": "Please enter DAO's name",
-    "UploadLogo": "Uploading logo",
-    "UploadLogoFailed": "Sorry, upload logo failed",
     "FillDAODescription": "Please describe your DAO to let people know it better.The info you enter should be less than 1024 charactars.",
     "twitterTips": "Please enter the official Twitter of this DAO. (e.g. https://twitter.com/subdao_network)",
     "twitter": "Twitter",
@@ -83,7 +80,6 @@
   },
   "about": {
     "Balance": "Balance",
-    "TotalAssests": "Total Assets Value",
     "Owner": "Owner",
     "Contracts": "Contracts",
     "others": "Other DAOs",
@@ -181,7 +177,7 @@
     "VoteDescription": "Vote Description",
     "Addtransfer": "Transfer",
     "KickGP": "Remove GP",
-    "VoteSettlement": "Start Settlement Period",
+    "VoteSettlement": "Vote to Settlement Period",
     "CreateNewVote": "Creating a new vote",
     "ExecutingVote": "Executing",
     "AddGP": "Add GP",
@@ -190,8 +186,8 @@
     "GPInfoAddress": "Address",
     "bonus": "bonus",
     "voteInfo": "Vote info",
-    "minimumPassed": "Required Vote Min Number",
-    "minimumVotes": "Required Support Min Number"
+    "minimumPassed": "Minimum passed votes",
+    "minimumVotes": "Minimum votes number"
   },
   "vault": {
     "Amount": "Amount",
@@ -266,7 +262,7 @@
     "RaisedFund": "Raised Fund",
     "Goal": "Fundraising Goal",
     "ManageFee": "Management Fee",
-    "GPBouns": "GP Carried Interest",
+    "GPBouns": "GP Bouns",
     "TokenBuy": "Swap",
     "ClickBuy": "Click to swap tokens",
     "Deposit": "Deposit",
@@ -286,7 +282,7 @@
     "descriptionEnter": "Please enter description",
     "Submit": "Submit",
     "CurrentHeight": "Current Height",
-    "Blocktime": "Block time",
+    "Blocktime": "Batch add members",
     "EstimeHeight": "Estimated Height",
     "ConfigGP": "Configure GP Fundraising Info",
     "ConfigFailed": "Failed to configure",
@@ -337,7 +333,6 @@
     "WhiteListError": "Add white list",
     "Balance": "Balance",
     "countdown": "countdown",
-    "whilelistFileTip": ".csv file is supported.",
-    "YourShare": "Your Share"
+    "whilelistFileTip": ".csv file is supported."
   }
 }
