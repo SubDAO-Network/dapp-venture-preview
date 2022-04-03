@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "./static/css/main.1fa58955.chunk.css",
-    "main.js": "./static/js/main.eb2e42de.chunk.js",
-    "main.js.map": "./static/js/main.eb2e42de.chunk.js.map",
+    "main.js": "./static/js/main.4572433a.chunk.js",
+    "main.js.map": "./static/js/main.4572433a.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.dc865887.js",
     "runtime-main.js.map": "./static/js/runtime-main.dc865887.js.map",
     "static/css/2.14358cfa.chunk.css": "./static/css/2.14358cfa.chunk.css",
-    "static/js/2.1416f740.chunk.js": "./static/js/2.1416f740.chunk.js",
-    "static/js/2.1416f740.chunk.js.map": "./static/js/2.1416f740.chunk.js.map",
+    "static/js/2.595db84a.chunk.js": "./static/js/2.595db84a.chunk.js",
+    "static/js/2.595db84a.chunk.js.map": "./static/js/2.595db84a.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.14358cfa.chunk.css.map": "./static/css/2.14358cfa.chunk.css.map",
     "static/css/main.1fa58955.chunk.css.map": "./static/css/main.1fa58955.chunk.css.map",
@@ -16,15 +16,15 @@
     "static/images/noDate.png": "./static/images/ac9820.png",
     "static/images/movr.png": "./static/images/ae4ece.png",
     "static/images/twitter_blue.png": "./static/images/def7d1.png",
-    "static/js/2.1416f740.chunk.js.LICENSE.txt": "./static/js/2.1416f740.chunk.js.LICENSE.txt",
+    "static/js/2.595db84a.chunk.js.LICENSE.txt": "./static/js/2.595db84a.chunk.js.LICENSE.txt",
     "static/media/fonts.scss": "./static/media/SF-Pro-Text-Regular.6a39aa20.otf",
     "static/media/logoSubdao.02857c07.svg": "./static/media/logoSubdao.02857c07.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.dc865887.js",
     "static/css/2.14358cfa.chunk.css",
-    "static/js/2.1416f740.chunk.js",
+    "static/js/2.595db84a.chunk.js",
     "static/css/main.1fa58955.chunk.css",
-    "static/js/main.eb2e42de.chunk.js"
+    "static/js/main.4572433a.chunk.js"
   ]
 }
