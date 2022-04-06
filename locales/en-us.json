@@ -25,6 +25,10 @@
     "Explorer": "Explorer other DAOs ...",
     "noDaos": "Sorry, there is no DAO"
   },
+  "Upload": {
+    "ErrorSize": "Image must smaller than 2MB!",
+    "ErrorType": "You can only upload JPG/PNG file!"
+  },
   "create": {
     "Basicinformation": "Basic information",
     "TemplateSelection": "Template selection",
