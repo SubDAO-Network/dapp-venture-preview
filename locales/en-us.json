@@ -23,7 +23,8 @@
     "myDAO": "My DAO",
     "Create": "Create DAO",
     "Explorer": "Explorer other DAOs ...",
-    "noDaos": "Sorry, there is no DAO"
+    "noDaos": "Sorry, there is no DAO",
+    "DaosError": "Get DAOs failed"
   },
   "Upload": {
     "ErrorSize": "Image must smaller than 2MB!",
