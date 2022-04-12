@@ -57,6 +57,8 @@
     "init": "Failed to create DAO",
     "voteTips": "Add Vote Manager",
     "manager": "Add Managers",
+    "BonusMatch": "total GP bonus percent not match 100%",
+    "GpAddressInvalid": "{{address}} is an invalid address",
     "venture": {
       "info": "Venture Info",
       "GP": "GP Carried Interest",
@@ -74,7 +76,8 @@
       "TokenName": "Equity Token",
       "FillTokenName": "Please enter the full name",
       "TokenSymbol": "Token Symbol",
-      "FillTokenSymbol": "Please enter the symbol"
+      "FillTokenSymbol": "Please enter the symbol",
+      "FillTip": "Please fill all inputs"
     },
     "token": {
       "config": "Token Configuration",
@@ -135,6 +138,9 @@
   },
   "vote": {
     "VoteConfiguration": "Vote Configuration",
+    "VoteConfigTip": "Any votes require the confirmation of:",
+    "VoteConfigNumber": "out of {{gp}} GP(s)",
+    "VoteConfigError": "Vote configuration is invalid",
     "new": "New Vote",
     "Waiting": "Waiting for trigger",
     "Finished": "Finished",
@@ -189,6 +195,7 @@
     "VoteSettlement": "Start Settlement Period",
     "CreateNewVote": "Creating a new vote",
     "ExecutingVote": "Executing",
+    "ExecuteFailed": "Executed failed: {{error}}",
     "AddGP": "Add GP",
     "TransferManageFee": "Transfer Manage Fee",
     "GpInfo": "GP info",
