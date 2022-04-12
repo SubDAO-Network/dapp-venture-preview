@@ -92,6 +92,7 @@
   "about": {
     "Balance": "Balance",
     "TotalAssests": "Total Assets Value",
+    "AssetsValue": "can't be valued",
     "Owner": "Owner",
     "Contracts": "Contracts",
     "others": "Other DAOs",
