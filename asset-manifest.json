@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.1fa58955.chunk.css",
-    "main.js": "./static/js/main.1265ce79.chunk.js",
-    "main.js.map": "./static/js/main.1265ce79.chunk.js.map",
+    "main.css": "./static/css/main.cca64d45.chunk.css",
+    "main.js": "./static/js/main.246c2482.chunk.js",
+    "main.js.map": "./static/js/main.246c2482.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.dc865887.js",
     "runtime-main.js.map": "./static/js/runtime-main.dc865887.js.map",
     "static/css/2.9ba25003.chunk.css": "./static/css/2.9ba25003.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.7d26afc2.chunk.js.map": "./static/js/2.7d26afc2.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.9ba25003.chunk.css.map": "./static/css/2.9ba25003.chunk.css.map",
-    "static/css/main.1fa58955.chunk.css.map": "./static/css/main.1fa58955.chunk.css.map",
+    "static/css/main.cca64d45.chunk.css.map": "./static/css/main.cca64d45.chunk.css.map",
     "static/images/bscScan.jpeg": "./static/images/1fbfda.jpeg",
     "static/images/noDaos.png": "./static/images/25b36b.png",
     "static/images/NTFnull.png": "./static/images/26ae90.png",
@@ -19,14 +19,14 @@
     "static/images/movr.png": "./static/images/ae4ece.png",
     "static/images/twitter_blue.png": "./static/images/def7d1.png",
     "static/js/2.7d26afc2.chunk.js.LICENSE.txt": "./static/js/2.7d26afc2.chunk.js.LICENSE.txt",
-    "static/media/fonts.scss": "./static/media/SF-Pro-Text-Regular.6a39aa20.otf",
+    "static/media/fonts.scss": "./static/media/SaintRegus-SemiBold.61a79ed0.ttf",
     "static/media/logoSubdao.02857c07.svg": "./static/media/logoSubdao.02857c07.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.dc865887.js",
     "static/css/2.9ba25003.chunk.css",
     "static/js/2.7d26afc2.chunk.js",
-    "static/css/main.1fa58955.chunk.css",
-    "static/js/main.1265ce79.chunk.js"
+    "static/css/main.cca64d45.chunk.css",
+    "static/js/main.246c2482.chunk.js"
   ]
 }
