@@ -8,7 +8,6 @@
       let result = 10 * (clientWidth / 1920)
 
       docEl.style.fontSize = (result < 8 ? 8 : result) + 'px'
-      console.log('~~~~', docEl.style.fontSize)
       // set data-dpr，for css hack
       docEl.setAttribute('data-dpr', dpr)
       var delObj = document.getElementById('loading')
