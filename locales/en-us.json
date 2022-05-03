@@ -333,7 +333,7 @@
     "ConfigFailed": "Failed to configure",
     "RaiseGP": "GP Fundraising",
     "RaiseTime": "End Time of Fundraising",
-    "RaiseRatio": "% of Total Fundraising",
+    "RaiseRatio": "GP percent of Total Fundraising",
     "MaxGP": "Max Deposit Per GP",
     "MinGP": "Min Deposit Per GP",
     "Max": "Max",
