@@ -70,6 +70,7 @@
     "voteTips": "Add Vote Manager",
     "manager": "Add Managers",
     "BonusMatch": "total GP bonus percent not match 100%",
+    "Ratio": "GP percent of Total Fundraising should less than 100% and more than 0%",
     "GpAddressInvalid": "{{address}} is an invalid address",
     "CapInvalid": "Soft cap should be less than the hard",
     "DepInvalid": "Min Deposit Per GP should be less than the min",
