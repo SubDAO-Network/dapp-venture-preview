@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "./static/css/main.fe6ea468.chunk.css",
-    "main.js": "./static/js/main.6d4bef55.chunk.js",
-    "main.js.map": "./static/js/main.6d4bef55.chunk.js.map",
+    "main.js": "./static/js/main.ebe868de.chunk.js",
+    "main.js.map": "./static/js/main.ebe868de.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.dc865887.js",
     "runtime-main.js.map": "./static/js/runtime-main.dc865887.js.map",
     "static/css/2.057dd787.chunk.css": "./static/css/2.057dd787.chunk.css",
-    "static/js/2.00a6b1c0.chunk.js": "./static/js/2.00a6b1c0.chunk.js",
-    "static/js/2.00a6b1c0.chunk.js.map": "./static/js/2.00a6b1c0.chunk.js.map",
+    "static/js/2.c7f69b72.chunk.js": "./static/js/2.c7f69b72.chunk.js",
+    "static/js/2.c7f69b72.chunk.js.map": "./static/js/2.c7f69b72.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.057dd787.chunk.css.map": "./static/css/2.057dd787.chunk.css.map",
     "static/css/main.fe6ea468.chunk.css.map": "./static/css/main.fe6ea468.chunk.css.map",
@@ -19,15 +19,30 @@
     "static/images/noDate.png": "./static/images/ac9820.png",
     "static/images/movr.png": "./static/images/ae4ece.png",
     "static/images/twitter_blue.png": "./static/images/def7d1.png",
-    "static/js/2.00a6b1c0.chunk.js.LICENSE.txt": "./static/js/2.00a6b1c0.chunk.js.LICENSE.txt",
+    "static/js/2.c7f69b72.chunk.js.LICENSE.txt": "./static/js/2.c7f69b72.chunk.js.LICENSE.txt",
+    "static/media/Add.f8cdc0f5.svg": "./static/media/Add.f8cdc0f5.svg",
+    "static/media/Approve.ddc4511f.svg": "./static/media/Approve.ddc4511f.svg",
     "static/media/fonts.scss": "./static/media/SaintRegus-SemiBold.61a79ed0.ttf",
-    "static/media/logoSubdao.02857c07.svg": "./static/media/logoSubdao.02857c07.svg"
+    "static/media/Freezing.00789400.svg": "./static/media/Freezing.00789400.svg",
+    "static/media/Invest.db0b45c5.svg": "./static/media/Invest.db0b45c5.svg",
+    "static/media/Invest.ff701729.svg": "./static/media/Invest.ff701729.svg",
+    "static/media/ManageFeeTransfer.95668fb3.svg": "./static/media/ManageFeeTransfer.95668fb3.svg",
+    "static/media/Management.cc0eec38.svg": "./static/media/Management.cc0eec38.svg",
+    "static/media/More.ca5fc26d.svg": "./static/media/More.ca5fc26d.svg",
+    "static/media/NFTTrading.5d9e1cd0.svg": "./static/media/NFTTrading.5d9e1cd0.svg",
+    "static/media/Redemption.7d50fb07.svg": "./static/media/Redemption.7d50fb07.svg",
+    "static/media/Remove.3a29381a.svg": "./static/media/Remove.3a29381a.svg",
+    "static/media/Settlement.007d5bfa.svg": "./static/media/Settlement.007d5bfa.svg",
+    "static/media/SwapToken.7bc230fd.svg": "./static/media/SwapToken.7bc230fd.svg",
+    "static/media/colon.faddd4f0.svg": "./static/media/colon.faddd4f0.svg",
+    "static/media/logoSubdao.02857c07.svg": "./static/media/logoSubdao.02857c07.svg",
+    "static/media/withdraw.81c7964a.svg": "./static/media/withdraw.81c7964a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.dc865887.js",
     "static/css/2.057dd787.chunk.css",
-    "static/js/2.00a6b1c0.chunk.js",
+    "static/js/2.c7f69b72.chunk.js",
     "static/css/main.fe6ea468.chunk.css",
-    "static/js/main.6d4bef55.chunk.js"
+    "static/js/main.ebe868de.chunk.js"
   ]
 }

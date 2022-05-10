@@ -128,10 +128,11 @@
     "Member": "Member(s)",
     "More": "More",
     "MyBalance": "My Balance",
-    "Home": "Home",
+    "Home": "Infomation",
     "Vote": "Vote",
     "Vault": "Vault",
     "ORG": "ORG",
+    "Management": "Management",
     "Venture": "Venture",
     "panel": "Venture Panel",
     "Quitting": "Quitting",
@@ -233,7 +234,13 @@
     "bonus": "bonus",
     "voteInfo": "Vote info",
     "minimumPassed": "Required Vote Min Number",
-    "minimumVotes": "Required Support Min Number"
+    "minimumVotes": "Required Support Min Number",
+    "Creating": "Creating vote",
+    "NewVoteAlert": "Please fill all inputs",
+    "NewVoteAlertToken": "Please select token",
+    "NewVoteAlertTokenAmount": "Please fill the valid amount",
+    "NewVoteAlertTime": "Please fill the correct time",
+    "NewVoteAlertInvalidAddress": "Please fill the correct Address"
   },
   "vault": {
     "Amount": "Amount",
@@ -369,9 +376,9 @@
     "RaisePeriod": "Fundraising Period",
     "GPInvest": "GP Period",
     "LPInvest": "LP Period",
-    "RaiseFail": "Fundraising Failed",
-    "FreezingPeriod": "Freezing",
-    "Settlement": "Settlement Period",
+    "RaiseFail": "Fundraising failed period",
+    "FreezingPeriod": "Management period",
+    "Settlement": "Redemption period",
     "manager": "Add Managers",
     "TokenProportion": "Your funds will be 1:1 mint to token",
     "DepositModal": "Deposit Modal",
@@ -380,6 +387,24 @@
     "Balance": "Balance",
     "countdown": "countdown",
     "whilelistFileTip": ".csv file is supported.",
-    "YourShare": "Your Share"
+    "YourShare": "Your Share",
+    "TitleFees": "Fees",
+    "Days": "DAYS",
+    "ManagementTip": "Not open in current period",
+    "NFTTip": "Please look forward to it",
+    "Remaining": "Remaining Time",
+    "ManagementAuth": "You are not the GP"
+  },
+  "management": {
+    "Swap": "Swap Token",
+    "Add": "Add",
+    "Remove": "Remove",
+    "Approve": "Approve",
+    "NTF": "NFT Trading",
+    "ManageFee": "ManageFee Transfer",
+    "Withdraw": "Withdraw",
+    "Invest": "Invest",
+    "Settlement": "Settlement",
+    "More": "More"
   }
 }
