@@ -240,7 +240,8 @@
     "NewVoteAlertToken": "Please select token",
     "NewVoteAlertTokenAmount": "Please fill the valid amount",
     "NewVoteAlertTime": "Please fill the correct time",
-    "NewVoteAlertInvalidAddress": "Please fill the correct Address"
+    "NewVoteAlertInvalidAddress": "Please fill the correct Address",
+    "NewVoteError": "Please fill the correct infomation"
   },
   "vault": {
     "Amount": "Amount",
