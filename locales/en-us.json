@@ -80,7 +80,8 @@
             "info": "Venture Info",
             "GP": "Carried Interest for All GPs",
             "Carried": "Carried Interest & Management Fee",
-            "GPTips": "20%\uff5e30% Recommended",
+            "GPTips": "20%~30% Recommended",
+            "ManagefeeTips": "2%~10% Recommended",
             "Manage": "Total Management Fee",
             "GPinfo": "GP Addresses",
             "GPMembers": "GP Addresses",
@@ -121,6 +122,7 @@
         "others": "Other DAOs",
         "explorer": "Explorer other DAOs",
         "Ownership": "Transfer Ownership",
+        "Share": "Share",
         "Quit": "Quit",
         "Join": "Join",
         "Edit": "Edit Profile",
@@ -138,7 +140,8 @@
         "panel": "Venture Panel",
         "Quitting": "Quitting",
         "resign": "Resign",
-        "resignMember": "Resign"
+        "resignMember": "Resign",
+        "CopySuccess": "The share link has been copied"
     },
     "transfer": {
         "Transferring": "Transferring ownership",
